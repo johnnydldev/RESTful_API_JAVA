@@ -1,5 +1,5 @@
 > [!NOTE]
-##  THIS PROJECT IS BASED ON SPRING BOOT COURSE BY WEB DEVELOPER PATH CARREER ##
+> ##  THIS PROJECT IS BASED ON SPRING BOOT COURSE BY WEB DEVELOPER PATH CARREER ##
 
 > [!IMPORTANT]
 This project work with gradle and java jdk 21. Was created with the Spring Initializr.
