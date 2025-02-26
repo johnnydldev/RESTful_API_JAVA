@@ -7,12 +7,12 @@ This project work with gradle and java jdk 21. Was created with the Spring Initi
 
 > [!TIP]
 Use the follow command to execute the project **construction**
-```java
+```ruby
     ./gradlew  build
 ```
 
 > [!TIP]
 Use the follow command to execute the **test**
-```java
+```ruby
     ./gradlew test
 ```
